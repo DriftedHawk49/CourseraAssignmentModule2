@@ -1,2 +1,2 @@
-# CourseraAssignments
-This Contains The submissions to assignments that are present in the Ruby On Rails Development Course 4 By Yaakov Chaikin
+# Assignment Module 2
+This Contains The submissions to assignment for Module 2 in the Ruby On Rails Development Course 4 By Yaakov Chaikin
