@@ -9,24 +9,25 @@ body {
 
 #chick{
     background-color:#fe9abd;
-    border:2px solid #b1023f;
+    border:1px solid black;
 }
 
 
 #beef{
    background-color:  #e40151; 
-    border:2px solid #fe9abd;
+     border:1px solid black;
 }
 
 #sush{
   background-color: #2b1f60;
-    border: 2px solid #ab9fe0;
+     border:1px solid black;
 }
 
 
  h1 {font-size: 175%;
         position: relative;
         left: 42% ; 
+        border: 1px solid black;
         border-bottom-left-radius: 10px;
         border-bottom-right-radius: 10px;
         text-align: center;
